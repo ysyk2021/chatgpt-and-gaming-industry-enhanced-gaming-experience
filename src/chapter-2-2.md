@@ -1,5 +1,3 @@
-Different Types of Games
-==============================================================
 
 Games can take many forms, and players can choose from a wide variety of options. In this chapter, we will explore the different types of games available in the gaming industry.
 

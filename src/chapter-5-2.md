@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is an AI-based chatbot technology that uses natural language processing to understand user queries and provide accurate responses. In this chapter, we will explore the features and capabilities of ChatGPT.
 

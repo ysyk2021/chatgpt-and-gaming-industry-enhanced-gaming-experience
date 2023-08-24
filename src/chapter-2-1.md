@@ -1,5 +1,3 @@
-Definition of Gaming Industry
-===================================================================
 
 The gaming industry has become a significant part of the entertainment market, with millions of players participating in various types of games. In this chapter, we will explore the definition of the gaming industry and its various components.
 

@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Gaming Industry
-========================================
 
 The gaming industry has faced numerous challenges in recent years, ranging from rising development costs to changing consumer preferences. In this chapter, we will explore the factors affecting the gaming industry, the common challenges faced by game developers, and the impact of these challenges on the player experience.
 

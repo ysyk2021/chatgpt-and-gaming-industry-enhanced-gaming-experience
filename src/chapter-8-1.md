@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential of ChatGPT to enhance the gaming experience for players and improve efficiency for game developers and publishers. We have covered a range of topics including:
 

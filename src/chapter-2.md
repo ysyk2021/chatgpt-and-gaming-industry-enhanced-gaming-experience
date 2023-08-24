@@ -1,5 +1,3 @@
-Chapter 1: Basics of Gaming Industry
-====================================
 
 The gaming industry has become a significant part of the entertainment market, with millions of players participating in various types of games. In this chapter, we will explore the basics of the gaming industry, including its definition, different types of games, and the importance of providing an enhanced gaming experience for players.
 
