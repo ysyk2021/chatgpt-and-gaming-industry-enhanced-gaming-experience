@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Game Developers
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges that game developers face when integrating ChatGPT in their games. We will discuss these challenges and offer potential solutions to overcome them.
 

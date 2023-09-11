@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in the Gaming Industry
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the key steps involved in implementing ChatGPT in the gaming industry. These steps serve as a guide for game developers and companies looking to incorporate chatbot technology to enhance the gaming experience.
 

@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the features and capabilities of ChatGPT that make it such a powerful tool for the gaming industry. With its natural language processing abilities, ChatGPT can assist in various aspects of game development, providing personalized player experiences and enhancing the overall gameplay.
 

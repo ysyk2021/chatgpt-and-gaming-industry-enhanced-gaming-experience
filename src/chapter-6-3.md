@@ -1,5 +1,4 @@
-Chapter: Case Studies of Game Developers Successfully Implementing ChatGPT
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of game developers who have successfully implemented ChatGPT in their games. These examples highlight how ChatGPT has enhanced the gaming experience, improved player engagement, and opened up new possibilities for game development.
 

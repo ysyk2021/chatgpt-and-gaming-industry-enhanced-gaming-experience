@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we will summarize the key findings and insights from our exploration of ChatGPT's integration in the gaming industry to enhance gaming experiences. We will also discuss the future outlook and potential advancements in this exciting field.
 

@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Enhancing Gaming Experience
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which ChatGPT can be leveraged to enhance the gaming experience for players. ChatGPT, with its natural language processing capabilities, has the potential to revolutionize player interactions, provide personalized experiences, and assist in various aspects of gaming.
 

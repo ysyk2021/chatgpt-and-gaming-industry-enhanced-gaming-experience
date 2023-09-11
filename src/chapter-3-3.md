@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Player Experience
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the challenges discussed earlier in the book and examine their potential impact on player experience. We will analyze how player privacy concerns, ethical considerations, inclusive design, AI creativity, and player agency can shape and influence the overall gaming experience.
 

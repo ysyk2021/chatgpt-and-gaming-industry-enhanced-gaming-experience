@@ -1,5 +1,4 @@
-Chapter: Factors Affecting the Gaming Industry
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the various factors that have a significant impact on the gaming industry. These factors shape the landscape in which gaming companies operate and influence the overall gaming experience for players. We will explore technological advancements, market trends, societal changes, and regulatory considerations.
 

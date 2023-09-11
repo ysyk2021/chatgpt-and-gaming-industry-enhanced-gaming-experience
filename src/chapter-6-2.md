@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Enhancing Gaming Experience
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore best practices for using ChatGPT to enhance the gaming experience. ChatGPT can be used to generate game content, facilitate player communication, and provide personalized recommendations.
 

@@ -1,5 +1,4 @@
-Chapter: Different Types of Games
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of games that exist within the gaming industry. From genres to platforms, games come in a wide range of forms, each offering unique gameplay experiences.
 
